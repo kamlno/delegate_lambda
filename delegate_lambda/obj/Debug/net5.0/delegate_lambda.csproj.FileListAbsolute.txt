@@ -1,0 +1,16 @@
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\bin\Debug\net5.0\delegate_lambda.exe
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\bin\Debug\net5.0\delegate_lambda.deps.json
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\bin\Debug\net5.0\delegate_lambda.runtimeconfig.json
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\bin\Debug\net5.0\delegate_lambda.runtimeconfig.dev.json
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\bin\Debug\net5.0\delegate_lambda.dll
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\bin\Debug\net5.0\ref\delegate_lambda.dll
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\bin\Debug\net5.0\delegate_lambda.pdb
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\obj\Debug\net5.0\delegate_lambda.csproj.AssemblyReference.cache
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\obj\Debug\net5.0\delegate_lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\obj\Debug\net5.0\delegate_lambda.AssemblyInfoInputs.cache
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\obj\Debug\net5.0\delegate_lambda.AssemblyInfo.cs
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\obj\Debug\net5.0\delegate_lambda.csproj.CoreCompileInputs.cache
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\obj\Debug\net5.0\delegate_lambda.dll
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\obj\Debug\net5.0\ref\delegate_lambda.dll
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\obj\Debug\net5.0\delegate_lambda.pdb
+C:\Users\88698\OneDrive\Desktop\practice\delegate_lambda\delegate_lambda\obj\Debug\net5.0\delegate_lambda.genruntimeconfig.cache
